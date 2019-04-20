@@ -1,1 +1,1 @@
-# HiQ_HW
+# Quantum Control through Deep Reinforcement Learning
