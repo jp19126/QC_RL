@@ -5,6 +5,7 @@ This project aims at ultilizing Machine Learning techniques such as Reinforcemen
 The project was initially inspired by [1] and [2].
 
 ## Progress Update
+22/04/2019 The slides and flowchart of [1] uploaded.
 
 ## References
 [1] Niu, M.Y., Boixo, S., Smelyanskiy, V.N. and Neven, H., 2019. Universal quantum control through deep reinforcement learning. In AIAA Scitech 2019 Forum (p. 0954).
